@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    background-color: black;
+}
+.toDo{
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+    width:1000px;
+    
+    background-color: aqua ;
+    margin-left: 1000px;
+    margin-top: 0px;
+}
+

@@ -1,12 +1,11 @@
 import { useState } from 'react'
-import './App.css'
-import toDo from './Components/toDo'
+import ToDo from './Components/ToDo'
 function App() {
   
 
   return (
     <>
-      <toDo/>
+      <ToDo/>
     </>
   )
 }
